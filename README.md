@@ -225,6 +225,16 @@ These issues were resolved through systematic debugging using Jenkins Console Ou
 
 ---
 
+# 📸 Project Demo
+
+## Application Output
+
+![Output](Application-Output.jpeg)
+
+## Jenkins Successful Build
+
+![Jenkins](Jenkins-Success.jpeg)
+
 # 👨‍💻 Author
 
 **Mohammad Sufyaan**
@@ -232,7 +242,7 @@ These issues were resolved through systematic debugging using Jenkins Console Ou
 Computer Science Student | Full Stack Developer | DevOps Enthusiast
 
 - GitHub: https://github.com/Sufyaan04
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/mohammad-sufyaan-9637b7277/
 
 ---
 
